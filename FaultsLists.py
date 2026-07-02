@@ -1,0 +1,46 @@
+
+Faults_AA_AB_AC = [
+    'RAM',
+    'MCU',
+    'Checksum',
+    'A/D conversion',
+    'ARINC Rx loss',
+    'Reception',
+    'Column 1',
+    'Column 2',
+    'Column 3',
+    'Column 4',
+    'Line',
+    'Pin Prog',
+    'Voice',
+    'Transmission',
+    'Conversion',
+    'Keyboard',
+    'Adjustment diff > 70 hex',
+    'Tx key stuck',
+    'Voice key stuck',
+    'Reset key stuck'
+]
+
+Faults_AD_AE = [
+    'RAM',
+    'CPU',
+    'Checksum',
+    'A/D conversion',
+    'ARINC Rx loss',
+    'Reception',
+    'Discrete Input',
+    'Power Supply',
+    'Call back order',
+    'I2C',
+    'Stack',
+    'Reserved',
+    'Voice',
+    'Transmission',
+    'Reserved',
+    'Keyboard',
+    'Adjustment diff > 70 hex',
+    'Tx key stuck',
+    'Voice key stuck',
+    'Reset key stuck'
+]
